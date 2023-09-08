@@ -39,3 +39,38 @@ final back end.  Also, I  optimized the register allocation part using graph col
 
 My work could be checked on https://github.com/Scarlett0815/compile/tree/master/compile_llvm/.<br>
 
+# Awards
+
+* 2022-12: Huaxia Computer Science Talent Class Scholarship 
+* 2022-11: Outstanding Student Scholarship Gold Award
+* 2022-11: The Second Prize in USTC RoboGame
+* 2022-04: Special Award for Girls in USTC Programming Competition(div1)
+* 2021-12: The Second Prize of the Undergraduate Mathematics Contest
+* 2021-12: China Collegiate Programming Contests for Girls Bronze Award
+* 2021-09: Outstanding Student Scholarship Bronze Award
+* 2021-06: Rose Light Scholarship
+* 2020-12: Freshman third-class scholarship
+
+# Hobbies
+
+**Jane Austen Enthusiast**
+
+I'd like to recommend Jane Austen's works to every girl intending to know something about marriage and love.  From my perspective, her depiction of love is akin to delicate carving on a small piece of ivory but it is both genuine and imbued with strength.
+
+**A Girl Enjoying Painting**
+
+My passion for art extends beyond Chinese painting, sketching, oil painting, and quick sketches. Here are some of my works.
+
+![image-20230907170321147](pictures/1.jpeg)
+
+![image-20230907170321147](pictures/2.jpeg)
+
+![image-20230907170321147](pictures/3.jpeg)
+
+**Calligraphy Enthusiast**
+
+I started practicing calligraphy at the age of six, and it has become an activity which brings me peace and joy. Here are some of my works.
+
+![image-20230907170321147](pictures/4.jpeg)
+
+![image-20230907170321147](pictures/5.jpeg)
