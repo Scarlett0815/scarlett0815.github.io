@@ -61,16 +61,10 @@ I'd like to recommend Jane Austen's works to every girl intending to know someth
 
 My passion for art extends beyond Chinese painting, sketching, oil painting, and quick sketches. Here are some of my works.
 
-![image-20230907170321147](pictures/1.jpeg)
-
-![image-20230907170321147](pictures/2.jpeg)
-
-![image-20230907170321147](pictures/3.jpeg)
+![image-20230907170321147](pictures/1.png)
 
 **Calligraphy Enthusiast**
 
 I started practicing calligraphy at the age of six, and it has become an activity which brings me peace and joy. Here are some of my works.
 
-![image-20230907170321147](pictures/4.jpeg)
-
-![image-20230907170321147](pictures/5.jpeg)
+![image-20230907170321147](pictures/2.jpg)
