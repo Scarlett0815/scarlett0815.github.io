@@ -1,10 +1,18 @@
 # Contact
+**Email**
+
 rjx08150100@gmail.com<br>
-rjx08150100@mail.ustc.edu.cn
+rjx08150100@mail.ustc.edu.cn<br>
+
+**Phone**
+
++86 15067262816<br>
+
++01 8059719840
 
 # Bio
 
-I am a senior undergraduate from School of the Gifted Young, University of Science and Technology of China. I am currently majoring in computer science, and my research interests include **quantum computing**, **compiler** and **operating systems**.
+I am a senior undergraduate from School of the Gifted Young, University of Science and Technology of China. I am also part of Hua Xia Talent Program in Computer Science and Technology. Currently, I am majoring in computer science, and my research interests include **quantum computing**, **compiler** and **operating systems**.
 
 # Research Experience
 
