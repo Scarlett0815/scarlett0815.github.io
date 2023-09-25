@@ -47,6 +47,36 @@ final back end.  Also, I  optimized the register allocation part using graph col
 
 My work could be checked on https://github.com/Scarlett0815/compile/tree/master/compile_llvm/.<br>
 
+# Courses
+
+Operating Systems (H): 97<br>
+
+Computer Networks: 97<br>
+
+Computer Programming A: 96<br>
+
+Network System Experiment: 95<br>
+
+Quantum Computing and Machine Learning: 93<br>
+
+Principles and Techniques of Compiler(H): 92<br>
+
+Introduction to Information Security: 92<br>
+
+Foundations of Algorithms: 92<br>
+
+Design and Practice of Robot: 93<br>
+
+C Language Programming II: 93<br>
+
+Analog and Digital Circuits: 90<br>
+
+Graph Theory: 90<br>
+
+Thermotics: 99<br>
+
+Mechanics A: 90<br>
+
 # Awards
 
 * 2022-12: Huaxia Computer Science Talent Class Scholarship 
@@ -58,6 +88,14 @@ My work could be checked on https://github.com/Scarlett0815/compile/tree/master/
 * 2021-09: Outstanding Student Scholarship Bronze Award
 * 2021-06: Rose Light Scholarship
 * 2020-12: Freshman third-class scholarship
+
+# Teaching Assistant
+
+**Computer Programming A**
+
+Organized by Prof.Jie Shen    --2022Fall
+
+Topic: C Programming, Introduction to Basic Data Structure, Foundation of Basic Algorithms
 
 # Hobbies
 
