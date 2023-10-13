@@ -14,6 +14,8 @@ rjx08150100@mail.ustc.edu.cn<br>
 
 I am a senior undergraduate from **School of the Gifted Young**, University of Science and Technology of China. I am also part of **Hua Xia Talent Program** in Computer Science and Technology. Currently, I am majoring in computer science, and my research interests include **quantum computing**, **compiler** and **operating systems**.
 
+[[CV]](https://scarlett0815.github.io/resume.pdf)
+
 # Research Experience
 
 **2023-07 ~ now: Summer Intern in UCSD Prof. Yufei Ding's Group**<br>
