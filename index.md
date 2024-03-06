@@ -18,7 +18,7 @@ I am a senior undergraduate from **School of the Gifted Young**, University of S
 
 # Publications
 
-**[ASPLOS'24] ** OnePerc: A Randomness-aware Compiler for Photonic Quantum Computing. Hezi Zhang,
+**[ASPLOS'24]** OnePerc: A Randomness-aware Compiler for Photonic Quantum Computing. Hezi Zhang,
 Jixuan Ruan, Hassan Shapourian, Ramana Rao Kompella, Yufei Ding
 
 # Research Experience
