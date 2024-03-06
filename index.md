@@ -16,6 +16,11 @@ I am a senior undergraduate from **School of the Gifted Young**, University of S
 
 [[CV]](https://scarlett0815.github.io/resume.pdf)
 
+# Publications
+
+**[ASPLOS'24] ** OnePerc: A Randomness-aware Compiler for Photonic Quantum Computing. Hezi Zhang,
+Jixuan Ruan, Hassan Shapourian, Ramana Rao Kompella, Yufei Ding
+
 # Research Experience
 
 **2023-07 ~ now: Summer Intern in UCSD Prof. Yufei Ding's Group**<br>
@@ -40,47 +45,10 @@ We have made a curling robot in 6 months, during which I was responsible for the
 
 Our work could be seen on https://github.com/WuTianming/robogame-code.<br>
 
-<br>
-
-**2022-12~2023-01: SysYF Compiler Design**<br>
-
-I made a compiler based on LLVM architecture. I designed this compiler from the lexical level to the
-final back end.  Also, I  optimized the register allocation part using graph coloring methods.<br>
-
-My work could be checked on https://github.com/Scarlett0815/compile/tree/master/compile_llvm/.<br>
-
-# Courses
-
-Operating Systems (H): 97<br>
-
-Computer Networks: 97<br>
-
-Computer Programming A: 96<br>
-
-Network System Experiment: 95<br>
-
-Quantum Computing and Machine Learning: 93<br>
-
-Principles and Techniques of Compiler(H): 92<br>
-
-Introduction to Information Security: 92<br>
-
-Foundations of Algorithms: 92<br>
-
-Design and Practice of Robot: 93<br>
-
-C Language Programming II: 93<br>
-
-Analog and Digital Circuits: 90<br>
-
-Graph Theory: 90<br>
-
-Thermotics: 99<br>
-
-Mechanics A: 90<br>
-
 # Awards
 
+* 2023-12: Huaxia Computer Science Talent Class Scholarship 
+* 2023-11: Outstanding Student Scholarship Silver Award
 * 2022-12: Huaxia Computer Science Talent Class Scholarship 
 * 2022-11: Outstanding Student Scholarship Gold Award
 * 2022-11: The Second Prize in USTC RoboGame
