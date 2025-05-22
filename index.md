@@ -1,62 +1,35 @@
 # Contact
 **Email**
 
+j3ruan@ucsd.edu<br>
 rjx08150100@gmail.com<br>
-rjx08150100@mail.ustc.edu.cn<br>
 
 **Phone**
 
-+86 15067262816<br>
++01 8585183864<br>
++86 15067262816
 
-+01 8059719840
+
 
 # Bio
 
-I am a senior undergraduate from **School of the Gifted Young**, University of Science and Technology of China. I am also part of **Hua Xia Talent Program** in Computer Science and Technology. Currently, I am majoring in computer science, and my research interests include **quantum computing**, **compiler** and **operating systems**.
+I am a first-year Ph.D. student in the **Computer Science and Engineering Department** at the **University of California, San Diego**, advised by [**Prof. Yufei Ding**](https://picassolab.squarespace.com/yufei). My current research focuses on **quantum system design** and **quantum error correction**.
+
 
 [[CV]](https://scarlett0815.github.io/resume.pdf)
 
 # Publications
-
-**[ASPLOS'24]** OnePerc: A Randomness-aware Compiler for Photonic Quantum Computing. Hezi Zhang, **Jixuan Ruan**, Hassan Shapourian, Ramana Rao Kompella, Yufei Ding
+**[ASPLOS'25]** PowerMove: Optimizing Compilation for Neutral Atom Quantum Computers with Zoned Architecture. **Jixuan Ruan**, Xiang Fang, Hezi Zhang, Ang Li, Travis Humble, Yufei Ding<br>
+**[ISCA'25]** CaliQEC: In-situ Qubit Calibration for Surface Code Quantum Error Correction. Xiang Fang, Keyi Yin, Yuchen Zhu, **Jixuan Ruan**, Dean Tullsen, Zhiding Liang, Andrew Sornborger, Ang Li, Travis Humble, Yufei Ding, Yunong Shi<br>
+**[ASPLOS'24]\[Distinguished Artifact Award\]** OnePerc: A Randomness-aware Compiler for Photonic Quantum Computing. Hezi Zhang, **Jixuan Ruan**, Hassan Shapourian, Ramana Rao Kompella, Yufei Ding
 
 # Research Experience
 
-**2023-07 ~ now: Summer Intern in UCSD Prof. Yufei Ding's Group**<br>
+**2023-07 ~ 2023-10: Summer Intern in UCSD Prof. Yufei Ding's Group**<br>
 
 We are building a compiler-centric optimization framework for **quantum computing**. This compiler is capable of  deploying quantum programs onto the hardware based on photonic quantum devices. My work is to optimize the performance of a basic framework proposed by Picasso Lab, OneQ: A Compilation Framework for Photonic One-Way Quantum Computation, from the perspectives of algorithms, diversity in resource states, and physical realism.<br>
 
 My work could be checked on https://github.com/Scarlett0815/OneQ-Optimization.<br>
-
-<br>
-
-**2022-06~2022-08: Build a VR Office system based on Oculus**<br>
-
-I took part in a small group consisted of several students interested in VR to build a office system based on Oculus. In this office system, we added the gesture recognition to Oculus and freed customers from the handlers. In addition, we realized 3 basic functions, which are 3D Object Importing, Remote Control as well as Model Plane.<br>
-
-Our work could be seen on https://github.com/OSH-2022/VR-fancy-office.<br>
-
-<br>
-
-**2022-05~2022-11: USTC Robo Game**<br>
-
-We have made a curling robot in 6 months, during which I was responsible for the recognition part as well as the tracking part. In this process, I used neural network to realized our recognition part for better robustness.<br>
-
-Our work could be seen on https://github.com/WuTianming/robogame-code.<br>
-
-# Awards
-
-* 2023-12: Huaxia Computer Science Talent Class Scholarship 
-* 2023-11: Outstanding Student Scholarship Silver Award
-* 2022-12: Huaxia Computer Science Talent Class Scholarship 
-* 2022-11: Outstanding Student Scholarship Gold Award
-* 2022-11: The Second Prize in USTC RoboGame
-* 2022-04: Special Award for Girls in USTC Programming Competition(div1)
-* 2021-12: The Second Prize of the Undergraduate Mathematics Contest
-* 2021-12: China Collegiate Programming Contests for Girls Bronze Award
-* 2021-09: Outstanding Student Scholarship Bronze Award
-* 2021-06: Rose Light Scholarship
-* 2020-12: Freshman third-class scholarship
 
 # Teaching Assistant
 
