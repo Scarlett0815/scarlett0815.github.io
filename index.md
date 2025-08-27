@@ -26,7 +26,7 @@ I am a first-year Ph.D. student in the **Computer Science and Engineering Depart
 
 # Research Experience
 
-**2025-06 ~ 2023-09: Summer Intern at Quera Computing Inc.**<br>
+**2025-06 ~ 2025-09: Summer Intern at Quera Computing Inc.**<br>
 I contributed to the development of the Bloqade compiler, creating a new placement dialect and a movement dialect to enable more flexible and efficient qubit scheduling. These dialects serve as the foundation for placement- and transport-aware compilation passes, improving both expressiveness and performance of Bloqade’s compiler infrastructure. 
 
 My work could be found on https://github.com/QueraComputing.
