@@ -20,12 +20,18 @@ I am a first-year Ph.D. student in the **Computer Science and Engineering Depart
 
 # Publications
 **[ASPLOS'25]** PowerMove: Optimizing Compilation for Neutral Atom Quantum Computers with Zoned Architecture. **Jixuan Ruan**, Xiang Fang, Hezi Zhang, Ang Li, Travis Humble, Yufei Ding<br>
+**[MICRO'25]** OneAdapt: Resource-adaptive Compilation of Photonic One-way Quantum Computing. Hezi Zhang, **Jixuan Ruan**, Yufei Ding, Ang Li, Travis Humble<br>
 **[ISCA'25]** CaliQEC: In-situ Qubit Calibration for Surface Code Quantum Error Correction. Xiang Fang, Keyi Yin, Yuchen Zhu, **Jixuan Ruan**, Dean Tullsen, Zhiding Liang, Andrew Sornborger, Ang Li, Travis Humble, Yufei Ding, Yunong Shi<br>
 **[ASPLOS'24]\[Distinguished Artifact Award\]** OnePerc: A Randomness-aware Compiler for Photonic Quantum Computing. Hezi Zhang, **Jixuan Ruan**, Hassan Shapourian, Ramana Rao Kompella, Yufei Ding
 
 # Research Experience
 
-**2023-07 ~ 2023-10: Summer Intern in UCSD Prof. Yufei Ding's Group**<br>
+**2025-06 ~ 2023-09: Summer Intern at Quera Computing Inc.**<br>
+I contributed to the development of the Bloqade compiler, creating a new placement dialect and a movement dialect to enable more flexible and efficient qubit scheduling. These dialects serve as the foundation for placement- and transport-aware compilation passes, improving both expressiveness and performance of Bloqade’s compiler infrastructure. 
+
+My work could be found on https://github.com/QueraComputing.
+     
+**2023-07 ~ 2023-10: Summer Intern at UCSD Prof. Yufei Ding's Group**<br>
 
 We are building a compiler-centric optimization framework for **quantum computing**. This compiler is capable of  deploying quantum programs onto the hardware based on photonic quantum devices. My work is to optimize the performance of a basic framework proposed by Picasso Lab, OneQ: A Compilation Framework for Photonic One-Way Quantum Computation, from the perspectives of algorithms, diversity in resource states, and physical realism.<br>
 
