@@ -39,9 +39,15 @@ My work could be checked on https://github.com/Scarlett0815/OneQ-Optimization.<b
 
 # Teaching Assistant
 
+**CSE 131. Compiler Construction**
+
+Organized by Prof. Yufei Ding   --2026Winter
+
+Topic: Compiler Design, Lexing and Parsing, Abstract Syntax Trees, Type Checking, Code Generation, Program Optimization, Runtime Systems
+
 **Computer Programming A**
 
-Organized by Prof.Jie Shen    --2022Fall
+Organized by Prof. Jie Shen    --2022Fall
 
 Topic: C Programming, Introduction to Basic Data Structure, Foundation of Basic Algorithms
 
