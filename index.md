@@ -13,7 +13,7 @@ rjx08150100@gmail.com<br>
 
 # Bio
 
-I am a first-year Ph.D. student in the **Computer Science and Engineering Department** at the **University of California, San Diego**, advised by [**Prof. Yufei Ding**](https://picassolab.squarespace.com/yufei). My current research focuses on **quantum system design** and **quantum error correction**.
+I am a second-year Ph.D. student in the **Computer Science and Engineering Department** at the **University of California, San Diego**, advised by [**Prof. Yufei Ding**](https://picassolab.squarespace.com/yufei). My current research focuses on **quantum system design** and **quantum error correction**.
 
 
 [[CV]](https://scarlett0815.github.io/resume.pdf)
