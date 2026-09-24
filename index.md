@@ -19,6 +19,8 @@ I am a second-year Ph.D. student in the **Computer Science and Engineering Depar
 [[CV]](https://scarlett0815.github.io/resume.pdf)
 
 # Publications
+**[NEURIPS'26]** Qubrio: High-Performance Quantum Compilation via Multi-Agent LLM Collaboration. **Jixuan Ruan**, Zhuo Cui, Zhengding Hu, Zhongkai Yu, Xiang Fang, Yue Guan, Jason Ludmir, Phillip Weinberg, XiuZhe Luo, Shengtao Wang, Sonia Lopez Alarcon, Hezi Zhang, Yufei Ding<br>
+**[NEURIPS'26]** FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration. Zhengding Hu, Mingge Lu, Zhen Wang, **Jixuan Ruan**, Chang Chen, Zaifeng Pan, Yue Guan, Ruiyi Wang, Zhongkai Yu, Chao Zhang, Yufei Ding<br>
 **[ASPLOS'25]** PowerMove: Optimizing Compilation for Neutral Atom Quantum Computers with Zoned Architecture. **Jixuan Ruan**, Xiang Fang, Hezi Zhang, Ang Li, Travis Humble, Yufei Ding<br>
 **[MICRO'25]** OneAdapt: Resource-adaptive Compilation of Photonic One-way Quantum Computing. Hezi Zhang, **Jixuan Ruan**, Yufei Ding, Ang Li, Travis Humble<br>
 **[ISCA'25]** CaliQEC: In-situ Qubit Calibration for Surface Code Quantum Error Correction. Xiang Fang, Keyi Yin, Yuchen Zhu, **Jixuan Ruan**, Dean Tullsen, Zhiding Liang, Andrew Sornborger, Ang Li, Travis Humble, Yufei Ding, Yunong Shi<br>
